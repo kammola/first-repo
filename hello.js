@@ -1,1 +1,5 @@
-console.log("hello ya ba4ar");
+
+
+var print = function(word){
+	console.log(word);
+}
